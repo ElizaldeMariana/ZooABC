@@ -1,0 +1,36 @@
+body{
+    background: url(../img/zoo3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(#A3B1F2, #7BF87B);
+    opacity: 0.9;
+}
+
+nav img {
+	width: 80px;
+	height: 40px;
+}
+#botones{
+    
+}
+#botones img{
+    width: 100%;
+    height: 80%;
+    /*padding: 5px;*/
+}
+#regresar img{
+    padding: 5px;
+    width: 100px;
+	height: 50px;
+}

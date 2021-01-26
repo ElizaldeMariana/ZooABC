@@ -1,0 +1,18 @@
+/*Hoja de estilos*/
+#entorno {
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
+body{
+    background:  #d1f4fa;
+}
+.col-md-4{
+    height: 100px;
+    width: 100%;
+    display: inline;
+    
+}
